@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Rakshith638 
-- 🌱 I’m currently learning ..
+- 🌱 I’m currently learning ML
+- Curiosity grows with time
+  
  
  
 
